@@ -5,6 +5,7 @@ Here is the [link](https://github.com/antaramurshed/wui-housing/blob/main/Group%
 ## Roles  
 
 Jessica: Working mainly with the with wildfire incidents dataset
+
 Antara: Exploring ACS data and finding structure data on OSM
 
 
