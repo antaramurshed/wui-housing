@@ -8,7 +8,7 @@ We use the WUI**(Wildland Urban Interface) map of California as a reference to u
 **The U.S. Fire Administration defines WUI as “the zone of transition between unoccupied land and human development. It is the line, area or zone where structures and other human development meet or intermingle with undeveloped wildland or vegetative fuels.”
 
 ## Spatial Scope 
-We have chosen to focus on California, the state with the highest number of homes in the WUI. So far we have been analyzing at the county level because census data has made that information readily available. However, we may want to make our scope smaller, and possibly focus on the project by specific wildfire (for example, the Camp Fire had destroyed the most structures in a single wildfire on record, over 18,000. Examining the few counties that the Camp Fire encompassed may allow us to have more detailed analysis of housing/structure/socioeconomic data. 
+We have chosen to focus on California, the state with the highest number of homes in the WUI. So far we have been analyzing at the county level because census data has made that information readily available. However, we may want to make our scope smaller, and possibly focus on the project by specific wildfire (for example, the Camp Fire had destroyed the most structures in a single wildfire on record, over 18,000). Examining the few counties that the Camp Fire encompassed may allow us to have more detailed analysis of housing/structure/socioeconomic data. 
 
 ## Data Sources 
 Two of the data sources we’ll be using are: 
